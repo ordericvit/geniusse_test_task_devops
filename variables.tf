@@ -1,5 +1,5 @@
 variable project_id {
-default = "optimal-mender-261119"
+default = ""
 }
 
 variable region_gcp {
